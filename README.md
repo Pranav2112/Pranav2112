@@ -1,4 +1,4 @@
-# Hi, I'm Pranav 👋  
+# Hi, I'm Pranav 👋
 Building intelligent systems at the intersection of finance, AI, and web3.
 
 ---
@@ -51,10 +51,10 @@ Building intelligent systems at the intersection of finance, AI, and web3.
 
 | Project | Description | Stack |
 |--------|------------|------|
-| **MaternaSense** | AI-powered clinical decision support system for early preeclampsia risk prediction with explainability | React, FastAPI, scikit-learn |
-| **RL Portfolio Optimizer** | PPO-based reinforcement learning system for dynamic asset allocation under market regimes | Python, PyTorch, Pandas |
-| **Tychee SDK** | Web3 fintech SDK enabling secure card tokenization with self-custody on Stellar | TypeScript, Solidity, Stellar |
-| **Smart Finance Tracker** | Full-stack expense tracking and analytics platform built with Agile methodology | React, Node.js, MongoDB |
+| **MaternaSense** | AI-powered clinical decision support for early preeclampsia risk prediction | React, FastAPI, scikit-learn |
+| **RL Portfolio Optimizer** | PPO-based RL system for dynamic asset allocation under market regimes | Python, PyTorch, Pandas |
+| **Tychee SDK** | Web3 fintech SDK for secure card tokenization with self-custody on Stellar | TypeScript, Solidity, Stellar |
+| **Smart Finance Tracker** | Full-stack expense tracking and analytics platform | React, Node.js, MongoDB |
 | **Stock Trend Classifier** | ML model predicting next-day stock direction using technical indicators | Python, scikit-learn, yfinance |
 | **RetailFlow Backend** | Secure Spring Boot backend with JWT auth and role-based access control | Java, Spring Boot, MySQL |
 
@@ -78,11 +78,8 @@ Building intelligent systems at the intersection of finance, AI, and web3.
 
 ---
 
-## 📬 Contact & Links
+## 📬 Contact
 
-- 📧 Email: pranavauti2112@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/pranav-auti  
-- 💻 GitHub: https://github.com/Pranav2112  
-- 🌐 Portfolio: (coming soon)
-
----
+[![Email](https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail)](mailto:pranavauti2003@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pranav-auti)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github)](https://github.com/Pranav2112)
