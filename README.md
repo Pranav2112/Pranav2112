@@ -1,30 +1,88 @@
-# Hi, I'm Pranav Auti 👋
-
-Full-Stack Developer · Finance & Blockchain Enthusiast · Building real-world apps
+# Hi, I'm Pranav 👋  
+Building intelligent systems at the intersection of finance, AI, and web3.
 
 ---
 
-## 🔭 What I Build
-- **Full-Stack Web & Mobile Apps** — end-to-end products from UI to backend
-- **Finance & Blockchain** — exploring DeFi, smart contracts, and fintech
-- **Data & ML** — data-driven tools and analytics
+## 🚀 What I Build
+- AI/ML systems for real-world financial decision-making (portfolio optimization, fraud detection)
+- Full-stack fintech platforms with modern UX and scalable backends
+- Web3 infrastructure tools focused on security, compliance, and usability
 
-## 🛠 Tech Stack
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat&logo=solidity)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+---
+
+## 🛠️ Tech Stack
+
+**Languages & Core**
+![Python](https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript)
+![SQL](https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql)
+
+**Frontend**
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite)
+
+**Backend & APIs**
+![FastAPI](https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-0d1117?style=for-the-badge&logo=springboot)
+![Node.js](https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js)
+
+**AI/ML**
+![PyTorch](https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch)
+![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-0d1117?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy)
+
+**Web3**
+![Solidity](https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity)
+![Stellar](https://img.shields.io/badge/Stellar-0d1117?style=for-the-badge&logo=stellar)
+![Web3](https://img.shields.io/badge/Web3-0d1117?style=for-the-badge&logo=web3dotjs)
+
+**Tools & Cloud**
+![AWS](https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git)
+
+---
+
+## 📌 Featured Projects
+
+| Project | Description | Stack |
+|--------|------------|------|
+| **MaternaSense** | AI-powered clinical decision support system for early preeclampsia risk prediction with explainability | React, FastAPI, scikit-learn |
+| **RL Portfolio Optimizer** | PPO-based reinforcement learning system for dynamic asset allocation under market regimes | Python, PyTorch, Pandas |
+| **Tychee SDK** | Web3 fintech SDK enabling secure card tokenization with self-custody on Stellar | TypeScript, Solidity, Stellar |
+| **Smart Finance Tracker** | Full-stack expense tracking and analytics platform built with Agile methodology | React, Node.js, MongoDB |
+| **Stock Trend Classifier** | ML model predicting next-day stock direction using technical indicators | Python, scikit-learn, yfinance |
+| **RetailFlow Backend** | Secure Spring Boot backend with JWT auth and role-based access control | Java, Spring Boot, MySQL |
+
+---
 
 ## 📊 GitHub Stats
-![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav2112&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2112&layout=compact&theme=dark)
+
+![Pranav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Pranav2112&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2112&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=Pranav2112&theme=tokyonight&hide_border=true)
+
+---
 
 ## 🤝 Open To
-- Full-time roles in fintech / web3 / full-stack
-- Open source collaboration
-- Interesting internships and freelance projects
+- Software Engineering / ML / FinTech roles (US market)
+- Research collaborations in AI + Finance
+- Web3 / blockchain product building
+- Hackathons & high-impact startup ideas
 
-## 📬 Reach Me
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/YOUR_LINKEDIN)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:Pranavauti2003@gmail.com)
+---
+
+## 📬 Contact & Links
+
+- 📧 Email: pranavauti2112@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/pranav-auti  
+- 💻 GitHub: https://github.com/Pranav2112  
+- 🌐 Portfolio: (coming soon)
+
+---
