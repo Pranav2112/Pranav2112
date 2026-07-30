@@ -1,108 +1,49 @@
-<h1 align="center">Hi, I'm Pranav 👋</h1>
-<h3 align="center">Building intelligent systems at the intersection of Finance, AI, and Web3</h3>
+# Pranav Auti
 
-<p align="center">
-  <a href="mailto:pranavauti2003@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/pranav-auti"><img src="https://img.shields.io/badge/LinkedIn-0d1117?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://github.com/Pranav2112"><img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github" /></a>
-</p>
+Hoboken, NJ · USA — Graduate Assistant at Stevens Institute of Technology, previously at Tychee and EquityFx.
 
----
+I write software for things where being wrong is expensive — trade reconciliation, payment rails, clinical risk scores. Right now I'm on the new-grad/internship interview loop, which is the actual reason [AppTracker](https://job-tracker-rho-five.vercel.app) below exists: I got tired of losing track of my own applications, so I built a tracker with a Kanban pipeline and gamified it hard enough that I keep opening it.
 
-### 🚀 What I Build
-
-I design and ship systems where machine learning meets real-world financial decisions — from clinical risk models to portfolio allocation to secure on-chain infrastructure.
-
-- 🧠 **AI/ML for finance** — portfolio optimization, fraud detection, and predictive risk models
-- 💳 **Full-stack fintech platforms** — modern UX backed by scalable, production-grade APIs
-- 🔐 **Web3 infrastructure** — security- and compliance-first tooling built for usability, not just whitepapers
+[pranavauti2003@gmail.com](mailto:pranavauti2003@gmail.com) · [linkedin.com/in/pranav-auti](https://www.linkedin.com/in/pranav-auti)
 
 ---
 
-### 📌 Featured Projects
+### building in the open right now
 
-| Project | Description | Stack |
-|---|---|---|
-| 🩺 **[MaternaSense](https://github.com/Pranav2112)** | Clinical decision-support tool for early preeclampsia risk prediction | React, FastAPI, scikit-learn |
-| 📈 **[RL Portfolio Optimizer](https://github.com/Pranav2112)** | PPO-based reinforcement learning agent for dynamic asset allocation across market regimes | Python, PyTorch, Pandas |
-| 🔗 **[Tychee SDK](https://github.com/Pranav2112)** | Web3 fintech SDK enabling secure card tokenization with self-custody on Stellar | TypeScript, Solidity, Stellar |
-| 💰 **[Smart Finance Tracker](https://github.com/Pranav2112)** | Full-stack expense tracking and analytics platform | React, Node.js, MongoDB |
-| 📊 **[Stock Trend Classifier](https://github.com/Pranav2112)** | ML model predicting next-day stock direction from technical indicators | Python, scikit-learn, yfinance |
-| 🛡️ **[RetailFlow Backend](https://github.com/Pranav2112)** | Production-style backend with JWT auth and role-based access control | Java, Spring Boot, MySQL |
+**[Trade Settlement & Reconciliation Engine](https://github.com/Pranav2112/trade-reconciliation-engine)** — two independent trade feeds (an internal book of record and a counterparty feed) get reconciled; anything that doesn't match becomes a "break," and an ML scorer ranks each break by anomaly severity. Phase 1 of 5, tracked in the repo itself:
 
-> 💡 Replace the placeholder links above with each project's actual repo URL.
+- [x] Phase 1 — Postgres schema + Spring Boot matching logic against sample data, unit tests
+- [ ] Phase 2 — Kafka (KRaft) + Docker Compose, Python feed generator, idempotent consumer
+- [ ] Phase 3 — REST API for breaks + React dashboard + JWT auth
+- [ ] Phase 4 — anomaly scoring service, severity surfaced in the UI
+- [ ] Phase 5 — CI across every service, architecture diagram, seed script, demo walkthrough
 
----
-
-### 🛠️ Tech Stack
-
-**Languages**
-<p>
-<img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python" />
-<img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk" />
-<img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript" />
-<img src="https://img.shields.io/badge/SQL-0d1117?style=for-the-badge&logo=postgresql" />
-</p>
-
-**Frontend**
-<p>
-<img src="https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react" />
-<img src="https://img.shields.io/badge/Next.js-0d1117?style=for-the-badge&logo=nextdotjs" />
-<img src="https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwindcss" />
-<img src="https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite" />
-</p>
-
-**Backend & APIs**
-<p>
-<img src="https://img.shields.io/badge/FastAPI-0d1117?style=for-the-badge&logo=fastapi" />
-<img src="https://img.shields.io/badge/SpringBoot-0d1117?style=for-the-badge&logo=springboot" />
-<img src="https://img.shields.io/badge/Node.js-0d1117?style=for-the-badge&logo=node.js" />
-</p>
-
-**AI/ML**
-<p>
-<img src="https://img.shields.io/badge/PyTorch-0d1117?style=for-the-badge&logo=pytorch" />
-<img src="https://img.shields.io/badge/ScikitLearn-0d1117?style=for-the-badge&logo=scikitlearn" />
-<img src="https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas" />
-<img src="https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy" />
-</p>
-
-**Web3**
-<p>
-<img src="https://img.shields.io/badge/Solidity-0d1117?style=for-the-badge&logo=solidity" />
-<img src="https://img.shields.io/badge/Stellar-0d1117?style=for-the-badge&logo=stellar" />
-<img src="https://img.shields.io/badge/Web3-0d1117?style=for-the-badge&logo=web3dotjs" />
-</p>
-
-**Tools & Cloud**
-<p>
-<img src="https://img.shields.io/badge/AWS-0d1117?style=for-the-badge&logo=amazonaws" />
-<img src="https://img.shields.io/badge/Docker-0d1117?style=for-the-badge&logo=docker" />
-<img src="https://img.shields.io/badge/Git-0d1117?style=for-the-badge&logo=git" />
-</p>
+**[Concurrent Resource Booking Platform](https://github.com/Pranav2112/Concurrent-Resource-Booking-Platform)** — the whole point of this one is a single bug: two people click "book" on the same slot in the same millisecond, and a naive read-then-write flow lets both win. Fixed it with row-level pessimistic locking (`SELECT ... FOR UPDATE`) inside a transaction boundary, then load-tested it — 20 simultaneous booking requests, 1 success, 0 conflicts, every run.
 
 ---
 
-### 📊 GitHub Stats
+### shipped
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Pranav2112&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2112&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
+**[AppTracker](https://job-tracker-rho-five.vercel.app)** — job/internship tracker with a 12-stage Kanban board, a scraper that auto-fills company/role/salary from a pasted Greenhouse, Lever, or Ashby URL with no paid API behind it, and an XP/streak/achievement system that exists purely so I don't ghost my own job search. React 18, TypeScript, Supabase, Vite.
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Pranav2112&theme=tokyonight&hide_border=true" />
-</p>
+**[FlashBet Protocol](https://github.com/Pranav2112/flashbet-monad)** — built in ~24 hours at Monad NYC. Live on-chain YES/NO prediction markets on real sports moments; since there's no live feed to hook into at a hackathon, a scripted Brazil–Argentina match generates real events (penalties, corners) and people bet real testnet MON on them through MetaMask, then claim against contracts actually deployed on [Monad testnet](https://testnet.monadexplorer.com). Solidity, Next.js 14, wagmi v2, a Node.js oracle running the match.
 
----
+**[AvaxPay](https://avax-pay.vercel.app)** — a Stripe-shaped payment processor for Avalanche: deeplink checkout, subscriptions, mock USDC/USDT settlement, contracts live on Fuji testnet. [Demo video here](https://youtu.be/SzBH74kJ_Pw). Solidity, Next.js.
 
-### 🤝 Open To
+**[FinSight AI](https://github.com/Pranav2112/finsight-ai)** — type a ticker, get a real research report back: a year of OHLCV via `yfinance`, volatility and max-drawdown risk metrics, MA20/50/200 + RSI14, and a rule-based bull/neutral/bear call with reasons attached. No LLM in the loop, no invented numbers. Next.js, FastAPI, pandas/NumPy.
 
-- 💼 Software Engineering / ML / FinTech roles (US market)
-- 🔬 Research collaborations in AI + Finance
-- 🌐 Web3 / blockchain product building
-- 🏆 Hackathons & high-impact startup ideas
+**[SmartFinance](https://github.com/Pranav2112/smartfinance)** — personal finance tracker, run as an actual Scrum project over 4 sprints for a grad Agile Methods course: budget thresholds with live alerts, savings goals, 6-month spend trends, an admin view across users. React, Node/Express, PostgreSQL.
+
+**[MaternaSense](https://github.com/Pranav2112/maternasense)** — clinical decision-support tool for early preeclampsia risk screening, built around evidence-based risk stratification for maternal care planning. React, Python, scikit-learn.
 
 ---
 
-<p align="center"><i>Let's build something that matters — reach out anytime.</i></p>
+### stack, roughly in order of how often I reach for it
+
+`TypeScript` `Python` `React` `Next.js` `FastAPI` `Java / Spring Boot` `PostgreSQL` `Supabase` `Solidity` `Docker` `Kafka` `AWS`
+
+---
+
+<img src="https://github-readme-stats.vercel.app/api?username=Pranav2112&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranav2112&layout=compact&theme=tokyonight&hide_border=true" height="165" />
+
+If you're hiring for SWE / ML / fintech, or want to talk about any of the above — [email me](mailto:pranavauti2003@gmail.com).
